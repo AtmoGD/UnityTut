@@ -46,12 +46,12 @@
         * RequireComponent
     * Coroutines
     * Scriptable Objects ?
-* [**User Interface**](https://github.com/AtmoGD/UnityTut/blob/main/MDFiles/userInterface.md)
-    * [Canvas](https://github.com/AtmoGD/UnityTut/blob/main/MDFiles/userInterface.md#canvas)
+* [**User Interface**](https://github.com/AtmoGD/UnityTut/blob/main/MDFiles/UserInterface.md)
+    * [Canvas](https://github.com/AtmoGD/UnityTut/blob/main/MDFiles/UserInterface.md#canvas)
         * Verschiedene Camera Optionen
         * Canvas Resizing
-    * [Image, Text und Button](https://github.com/AtmoGD/UnityTut/blob/main/MDFiles/userInterface.md#)
-    * [Interaktionen](https://github.com/AtmoGD/UnityTut/blob/main/MDFiles/userInterface.md#interaktionen)
+    * [Image, Text und Button](https://github.com/AtmoGD/UnityTut/blob/main/MDFiles/UserInterface.md#)
+    * [Interaktionen](https://github.com/AtmoGD/UnityTut/blob/main/MDFiles/UserInterface.md#interaktionen)
 * [**Render Pipelines**](https://github.com/AtmoGD/UnityTut/blob/main/MDFiles/RenderPipelines.md)
     * [URP](https://github.com/AtmoGD/UnityTut/blob/main/MDFiles/RenderPipelines.md#universal-render-pipeline)
     * [HDRP](https://github.com/AtmoGD/UnityTut/blob/main/MDFiles/RenderPipelines.md#high-definition-render-pipeline)
