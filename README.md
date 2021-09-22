@@ -2,7 +2,7 @@
 
 ## Übersicht
 
-* <u>[**Installation**](https://github.com/AtmoGD/UnityTut/blob/main/MDFiles/Installation.md)</u>
+* [**Installation**](https://github.com/AtmoGD/UnityTut/blob/main/MDFiles/Installation.md)
     * Unity Student License
     * Unity Hub
     * Verschiedene Versionen
@@ -53,7 +53,7 @@
     * Image, Text und Button
     * Interaktionen
 * [**Render Pipelines**](https://github.com/AtmoGD/UnityTut/blob/main/MDFiles/RenderPipelines.md)
-    * URP
+    * [URP](https://github.com/AtmoGD/UnityTut/blob/main/MDFiles/RenderPipelines.md#Unitystudentlicense)
     * HDRP
 * [**Cinemachine**](https://github.com/AtmoGD/UnityTut/blob/main/MDFiles/Cinemachine.md)
 * [**Particle Systems**](https://github.com/AtmoGD/UnityTut/blob/main/MDFiles/ParticleSystems.md)
