@@ -3,8 +3,10 @@
 # User Interface
 
 ## Canvas
-* Verschiedene Camera Optionen
-* Canvas Resizing
+
+### Verschiedene Camera Optionen
+
+### Canvas Resizing
 
 ## Image, Text und Button
 
