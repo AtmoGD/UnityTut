@@ -2,7 +2,7 @@
 
 ## TOC
 
-* [**Installation**](../Installation.md)
+* [**Installation**](https://github.com/AtmoGD/UnityTut/blob/main/Installation.md)
     * Unity Student License
     * Unity Hub
     * Verschiedene Versionen
